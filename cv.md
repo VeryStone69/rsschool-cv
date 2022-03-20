@@ -51,3 +51,26 @@ function isValidWalk(walk) {
 ```
 
 ---
+
+## Work experience
+
+One month trainee program at Zborka Labs (Minsk, Belarus 2021) on the "Itcoty" project. Project closed - training ended :(
+
+---
+
+## Education
+
+- **Colledge:** Brest State Polytechnic College, Civil Engineering major
+- **Courses:**
+  - Stepik.org (online):
+    - Web Development for Beginners: HTML and CSS [(certificate)](https://stepik.org/cert/1056535)
+    - Basics of HTML and CSS
+    - JavaScript for Beginners [(certificate)](https://stepik.org/cert/1132397)
+  - BelHard (offline):
+    - Website development basics [(certificate)](https://verystone69.github.io/myResume/assets/images/belhard1.jpeg)
+    - Modern Front-End with JavaScript and HTML5 [(certificate)](https://verystone69.github.io/myResume/assets/images/belhard2.jpg)
+  - itgid.info (online):
+    - JavaScript 2.0 [(certificate)](https://itgid.info/certificate/view?Certificate%5Buid%5D=n81xzubug9)
+    - React JS
+
+---
