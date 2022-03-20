@@ -12,3 +12,12 @@
 
 All my life I have been interested in technology, computers and gadgets. But I spent a lot of time on a job that weren't interesting. And now I want to start working in exciting and interesting field with like-minded people.
 I am a sociable person, a real team player and I am very willing to learn and develop new skills. I hope that with the help of the RS school community, I will achieve my goals and help other people achieve theirs.
+
+## Skills and Proficiency
+
+- HTML5, CSS3/SASS, Bootstrap
+- JavaScript
+- Git
+- VS Code, Brackets, WebStorm
+- BEM methodology
+- Figma, Photoshop
