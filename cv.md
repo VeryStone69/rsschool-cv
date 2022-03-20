@@ -5,6 +5,7 @@
 - Location: Poland, Gdansk.
 - Phone: +48 536 071 925 (PL), +375 29 105 1 105 (BY)
 - Email: carcer2007@gmail.com
+- Discord (rs-school): Aliaksandr (@verystone69)
 - [GitHub](https://github.com/verystone69)
 - [Linkedin](https://www.linkedin.com/in/alexunder-koptsevich/)
 
@@ -74,3 +75,9 @@ One month trainee program at Zborka Labs (Minsk, Belarus 2021) on the "Itcoty" p
     - React JS
 
 ---
+
+## Language
+
+- Russian: native
+
+- English: A1-A2
