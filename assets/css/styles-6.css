@@ -56,8 +56,9 @@ p {
   position: absolute;
   right: 0;
   width: 300px;
-  min-height: 100%;
+  min-height: 1205px;
   color: #fff;
+  box-shadow: rgb(0 0 0 / 40%) 10px 10px;
 }
 .sidebar-wrapper a {
   color: #fff;
@@ -156,9 +157,11 @@ p {
   margin-bottom: 0;
 }
 .main-wrapper {
+  min-height: 1205px;
   background: #fff;
   padding: 60px;
   padding-right: 314px;
+  box-shadow: rgb(0 0 0 / 40%) 10px 10px;
 }
 .main-wrapper .section-title {
   text-transform: uppercase;
